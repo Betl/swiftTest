@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  swiftTest
-//
-//  Created by user on 11/16/15.
-//  Copyright © 2015 user. All rights reserved.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
